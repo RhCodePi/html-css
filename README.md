@@ -8,6 +8,7 @@ check it out :
 https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions repository.
 
 And last, if you want to look at this course, link them below:
+
 https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 
